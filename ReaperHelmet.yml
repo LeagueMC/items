@@ -1,0 +1,27 @@
+name: "&8>> &0&lReaper Cap of Dismay &r&8<<"
+
+lore:
+  lore1: "&bNocturnal I"
+  lore2: "&bShield I"
+  lore3: "&7&8&9"
+  lore4: "&0&lEffects:"
+  lore5: "&f • Deal an extra 20% Damage to all enemies!"
+  lore6: "&f • Berserk Special Ability"
+  lore7: "&7&8&9"
+  lore8: "&0&lAbility:"
+  lore9: "&fWhile wearing this set, There is a 5%"
+  lore10: "&fchance to give your enemy a random debuff"
+  lore11: "&ffor 5 Seconds."
+
+material: DIAMOND_HELMET
+
+id: 21
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  protection: 4
+  unbreaking: 3
+

@@ -1,0 +1,26 @@
+name: "&8>> &0&lReaper Leggings of Terror &r&8<<"
+
+lore:
+  lore1: "&bCloak I"
+  lore2: "&7&8&9"
+  lore3: "&0&lEffects:"
+  lore4: "&f • Deal an extra 20% Damage to all enemies!"
+  lore5: "&f • Berserk Special Ability"
+  lore6: "&7&8&9"
+  lore7: "&0&lAbility:"
+  lore8: "&fWhile wearing this set, There is a 5%"
+  lore9: "&fchance to give your enemy a random debuff"
+  lore10: "&ffor 5 Seconds."
+
+material: DIAMOND_LEGGINGS
+
+id: 23
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  protection: 4
+  unbreaking: 3
+
