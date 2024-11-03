@@ -1,12 +1,12 @@
-# Items Folder for ItemsAdder Plugin
+# Items Folder for LeagueMC ItemsAdder Plugin
 
-The **Items** folder is a crucial part of the `ItemsAdder` plugin, serving as the storage location for all `.yml` files that define custom items. This guide explains the structure, purpose, and best practices for organizing and managing these files within the **Items** folder.
+This documentation explains the **Items** folder structure and configuration for the `ItemsAdder` plugin as used on the **LeagueMC Guild Survival Server**. Here, we store `.yml` files that define our custom items, which range from weapons to consumables, giving players a unique and immersive experience. This guide covers folder organization, file formatting, and best practices for managing custom items on LeagueMC.
 
 ## Overview
 
-The `Items` folder is where you store all `.yml` configuration files for custom items used on the Guild Survival Server. Each `.yml` file in this folder represents a different category of custom items or contains definitions for specific items, and it's essential for the custom items to be organized logically to ensure smooth operation and scalability of the plugin.
+The **Items** folder holds all `.yml` configuration files that define custom items in `ItemsAdder`. Each `.yml` file corresponds to a specific category of items, making it easier to manage and scale as more items are added to LeagueMC.
 
 ## Folder Structure
 
-To keep things organized and maintain readability, it's recommended to structure the **Items** folder in a way that separates items by their function or category. Here is a suggested folder structure:
+For better organization, it’s recommended to separate items by function or category within the **Items** folder. Here is a sample structure for reference:
 
