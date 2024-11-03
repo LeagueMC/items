@@ -1,0 +1,18 @@
+name: "&8&lDeath Note"
+
+lore:
+  lore1: "&7&8&9"
+  lore2: "&fUnlocked at &b&ndsc.gg/mcleague"
+  lore3: "&7&8&9"
+  lore4: "&7A Gift from the Divine Shinigami"
+
+material: BOOK
+
+id: 25
+
+soulbound: true
+
+unbreakable: false
+
+enchantments:
+  mending: 1

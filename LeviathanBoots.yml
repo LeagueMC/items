@@ -1,0 +1,26 @@
+name: "&8>> &3&lLeviathan Shoes &r&8<<"
+
+lore:
+  lore1: "&bSpeed II"
+  lore2: "&7&8&9"
+  lore3: "&3&lEffects:"
+  lore4: "&f • +4 Max Hearts "
+  lore5: "&f • Receives 10% Less Damage from Aquatic Mobs"
+  lore6: "&f • Permanent Aquatic Effects"
+  lore7: "&7&8&9"
+  lore8: "&3&lAbility:"
+  lore9: "&f5% Chance to dodge incoming attacks and"
+  lore10: "&fholds the power of the Krakens Wrath."
+
+material: DIAMOND_BOOTS
+
+id: 16
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  protection: 4
+  unbreaking: 3
+  depth_strider: 3

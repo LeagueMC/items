@@ -1,0 +1,26 @@
+name: "&8>> &6&lInferno Vest &r&8<<"
+
+lore:
+  lore1: "&6Health Boost I"
+  lore2: "&7&8&9"
+  lore3: "&6&lEffects:"
+  lore4: "&f • Deal an extra 20% damage to all enemies."
+  lore5: "&f • Permanent Fire Resistance effect"
+  lore6: "&7&8&9"
+  lore7: "&6&lAbility:"
+  lore8: "&fWhile wearing this set, There is a 5%"
+  lore9: "&fchance to push back and damage"
+  lore10: "&fenemies."
+
+
+material: DIAMOND_CHESTPLATE
+
+id: 6
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  protection: 4
+  unbreaking: 3

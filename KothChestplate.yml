@@ -1,0 +1,27 @@
+name: "&8>> &r|&c&lK&6&l.&e&lO&a&l.&b&lT&5&l.&d&lH&r| &f&lShield of the Hill &r&8<<"
+
+lore:
+  lore1: "&6Health Boost III"
+  lore2: "&7&8&9"
+  lore3: "&f&lEffects:"
+  lore4: "&f • Superior Enhancement: Protection V"
+  lore5: "&f • Receives 10% Less Damage from Players & Mobs"
+  lore6: "&f • Permanent Speed III"
+  lore7: "&7&8&9"
+  lore8: "&f&lAbility:"
+  lore9: "&fWhile wearing this set, You have a chance"
+  lore10: "&fto become Invincible for 3 Seconds."
+
+
+
+material: DIAMOND_CHESTPLATE
+
+id: 10
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  protection: 5
+  unbreaking: 3

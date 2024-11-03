@@ -1,0 +1,46 @@
+name: "&2&lS&a&lO&2&lT&a&lW &2&lC&a&lR&2&lA&a&lT&2&lE"
+
+lore:
+  lore1: "&7&8&9"
+  lore2: "&r&fUnlocked at &b&ndsc.gg/mcleague"
+  lore3: "&7&8&9"
+  lore4: "&5&lEPIC"
+  lore5: "&d➤ &f5x &9Lapis &7Block"
+  lore6: "&d➤ &f25x &bDiamonds"
+  lore7: "&d➤ &c&l[OP] &f2x &eVillager Spawn Egg"
+  lore8: "&d➤ &f2x &4Cursed Bone"
+  lore9: "&d➤ &f1x &6Totem of Undying"
+  lore10: "&d➤ &f10x Iron &7Block"
+  lore11: "&d➤ &c&l[OP]&r &d/echest&7 Voucher"
+  lore12: "&d➤ &f5x &6Gold &7Block"
+  lore13: "&7&8&9"
+  lore14: "&6&lLEGENDARY"
+  lore15: "&e➤ &6Golden &eVault"
+  lore16: "&e➤ &c&l[NEW] &6&lCARRRRRROOOOTTTT"
+  lore17: "&e➤ &dPhantom &dArmour &dSet"
+  lore18: "&e➤ &bA Rank"
+  lore19: "&e➤ &8Elytra"
+  lore20: "&e➤ &c&l✫&6&l✫&e&l✫ &l&cS&6&lO&e&lT&a&lW &b&lC&d&lR&5&lA&c&lT&6&lE &a&l✫&b&l✫&d&l✫"
+  lore21: "&e➤ &cBucaneer &4Chestplate"
+  lore22: "&e➤ &f5x &bDiamond &7Block"
+  lore23: "&e➤ &c&l[OP] &4/feed&7 Voucher"
+  lore24: "&7&8&9"
+  lore25: "&4&lSUPREME"
+  lore26: "&c➤ &6Golden Hook"
+  lore27: "&c➤ &9The &1Sea &bCleaver"
+  lore28: "&c➤ &8Death Note"
+  lore29: "&c➤ &1Leviathan &9Armour &bSet"
+  lore30: "&c➤ &45x &cNetherite Block"
+  lore31: "&c➤ &4Inferno &6Armour &cSet"
+  lore32: "&c➤ &4Full &cBucaneer &4Set"
+  lore33: "&c➤ &b❄ &cC&2h&cr&2i&cs&2t&cm&2a&cs &2C&cr&2a&ct&2e &b❄"
+  lore34: "&c➤ &b❄ &cC&ar&ci&am&cs&ao&cn&a S&ct&ar&ci&cp&ae&cd&a S&ca&ab&ce&ar &b❄"
+  lore35: "&c➤ &6S &eRank"
+
+material: BEACON
+
+id: 28
+
+soulbound: false
+
+unbreakable: false

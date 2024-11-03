@@ -1,0 +1,25 @@
+name: "&8>> &d&lPhantom Leggings &r&8<<"
+
+lore:
+  lore1: "&bCloak I"
+  lore2: "&7&8&9"
+  lore3: "&d&lEffects:"
+  lore4: "&f • +2 Max Hearts "
+  lore5: "&f • Deal an extra 20% Damage"
+  lore6: "&f • Enjoy a 15% Damage Reduction"
+  lore7: "&7&8&9"
+  lore8: "&d&lAbility:"
+  lore9: "&f5% Chance to gain Strength 3 for a random"
+  lore10: "&famount of time from 1 - 3 Seconds."
+
+material: DIAMOND_LEGGINGS
+
+id: 19
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  protection: 4
+  unbreaking: 3

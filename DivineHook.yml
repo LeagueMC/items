@@ -1,0 +1,31 @@
+name: "&8>> &r&b&lThe &3&lDivine &b&lHook &r&8>> &d&l[&b&n&l7&r&d&l]"
+
+lore:
+  lore1: "&4Demon Aura V"
+  lore2: "&4Purge IV"
+  lore3: "&6Corruption II"
+  lore4: "&5Venom I"
+  lore5: "&5Hellforged II"
+  lore6: "&bHypothermia I"
+  lore7: "&bBlind II"
+  lore8: "&7&8&9"
+  lore9: "&7With an astonishing &b22.5 &7DPS, this hoe"
+  lore10: "&7slices through foes with precision."
+  lore11: "&7&8&9"
+  lore12: "&3Divine Hook Buff:"
+  lore13: "&7&8&9"
+  lore14: "&7The only weapon known to possess"
+  lore15: "&7exclusive &6Custom Weapon Enchantments"
+  lore16: "&7as of &4Season 1&7."
+
+material: DIAMOND_HOE
+
+id: 26
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  sharpness: 10
+  unbreaking: 10

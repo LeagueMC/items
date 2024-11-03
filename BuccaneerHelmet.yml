@@ -1,0 +1,26 @@
+name: "&8>> &c&lBucaneer Cap &r&8<<"
+
+lore:
+  lore1: "&bNocturnal I"
+  lore2: "&7&8&9"
+  lore3: "&c&lEffects:"
+  lore4: "&f • Deal an extra 10% Damage to Hostile Mobs."
+  lore5: "&f • Permanent Strength I effect"
+  lore6: "&7&8&9"
+  lore7: "&c&lAbility:"
+  lore8: "&fWhile wearing this set, There is a 5%"
+  lore9: "&fchance to gain Resistance 2 for a limited"
+  lore10: "&ftime."
+
+material: DIAMOND_HELMET
+
+id: 1
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  protection: 4
+  unbreaking: 3
+

@@ -1,0 +1,25 @@
+name: "&8>> &c&lBucaneer Pantaloons &r&8<<"
+
+lore:
+  lore1: "&7&8&9"
+  lore2: "&c&lEffects:"
+  lore3: "&f • Deal an extra 10% Damage to Hostile Mobs."
+  lore4: "&f • Permanent Strength I effect"
+  lore5: "&7&8&9"
+  lore6: "&c&lAbility:"
+  lore7: "&fWhile wearing this set, There is a 5%"
+  lore8: "&fchance to gain Resistance 2 for a limited"
+  lore9: "&ftime."
+
+material: DIAMOND_LEGGINGS
+
+id: 3
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  protection: 4
+  unbreaking: 3
+

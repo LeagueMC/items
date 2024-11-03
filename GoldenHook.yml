@@ -1,0 +1,18 @@
+name: "&6Golden Hook"
+
+lore:
+  lore1: "&7&8&9"
+  lore2: "&7Won from the hands of the"
+  lore3: "&4Devil &7himself."
+
+material: GOLDEN_HOE
+
+id: 27
+
+soulbound: true
+
+unbreakable: true
+
+enchantments:
+  sharpness: 255
+
