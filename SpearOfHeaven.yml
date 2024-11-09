@@ -12,14 +12,13 @@ lore:
   lore9: "&eBlind I"
   lore10: "&bCorruption IV"
   lore11: "&bDeath Curse V"
-  lore12: "&3Divine Hook Buff:"
-  lore13: "&7Blessed V"
-  lore14: "&7&8&9"
-  lore15: "&f&lEffects:"
-  lore16: "&f • Deal 10% more damage to Enemies."
-  lore17: "&f • Enjoy a 15% damage reduction."
-  lore18: "&7&8&9"
-  lore19: "&60 Slots"
+  lore12: "&7Blessed V"
+  lore13: "&7&8&9"
+  lore14: "&f&lEffects:"
+  lore15: "&f • Deal 10% more damage to Enemies."
+  lore16: "&f • Enjoy a 15% damage reduction."
+  lore17: "&7&8&9"
+  lore18: "&60 Slots"
 
 material: DIAMOND_SWORD
 
