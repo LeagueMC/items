@@ -1,0 +1,34 @@
+name: "&8>> &6&n&lSpear &6&l&nOf &e&l&nHeaven&r &8<< &l&d[&b&l12&d&l]"
+
+lore:
+  lore1: "&4Enrage V"
+  lore2: "&4Abyss III"
+  lore3: "&cDivine Immolation III"
+  lore4: "&6Lifesteal V"
+  lore5: "&6Trickshot III"
+  lore6: "&6Execute IV"
+  lore7: "&6Eradicate II"
+  lore8: "&ePetrify IV"
+  lore9: "&eBlind I"
+  lore10: "&bCorruption IV"
+  lore11: "&bDeath Curse V"
+  lore12: "&3Divine Hook Buff:"
+  lore13: "&7Blessed V"
+  lore14: "&7&8&9"
+  lore15: "&f&lEffects:"
+  lore16: "&f • Deal 10% more damage to Enemies."
+  lore17: "&f • Enjoy a 15% damage reduction."
+  lore18: "&7&8&9"
+  lore19: "&60 Slots"
+
+material: DIAMOND_SWORD
+
+id: 29
+
+soulbound: false
+
+unbreakable: false
+
+enchantments:
+  sharpness: 6
+  unbreaking: 3
