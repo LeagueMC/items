@@ -1,0 +1,28 @@
+name: "&1&n&lHelmet&r &b&n&lOf&r &5&n&lInsomnia&r &d&l[&b&l&n3&d&l]"
+
+lore:
+  lore1: "&4Reinforced IV"
+  lore2: "&6Cloak II"
+  lore3: "&bNocturnal I"
+  lore4: "&7&8&9"
+  lore5: "&5&lEffects:"
+  lore6: "&f • Permanent Night Vision Effect."
+  lore7: "&f • 5% Speed Boost during Night Time."
+  lore8: "&7&8&9:"
+  lore9: "&5&lAbilities:"
+  lore10: "&fPhantoms vanish around you, and your sleep"
+  lore11: "&fcounts as 5 players, &fskipping the night"
+  lore 12: "&feffortlessly."
+
+
+material: DIAMOND_HELMET
+
+id: 30
+
+soulbound: false
+
+unbreakable: true
+
+enchantments:
+  protection: 5
+  unbreaking: 3
